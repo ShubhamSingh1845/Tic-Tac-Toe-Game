@@ -1,0 +1,33 @@
+# ❌⭕ Tic-Tac-Toe Game
+
+## 👨‍💻 Author
+
+Shubham Rajput
+
+## 📌 Description
+
+This is a simple Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. It supports two-player gameplay with automatic winner detection and game reset features.
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## 🎮 Features
+
+- Two-player game (X and O)
+- Turn-based gameplay
+- Winner announcement
+- Draw detection
+- Reset and New Game options
+- Interactive UI
+
+## 🚀 How to Run
+
+1. Open `tick.html` in your browser
+2. Start playing the game
+
+## ⭐ Project Goal
+
+To build a simple interactive game using JavaScript and improve logic building skills.
